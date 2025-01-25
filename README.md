@@ -5,7 +5,7 @@ AI agent to identify potential customers to buy your products and services.
 
 - A tool that automatically performs complex analysis in the background: Behind the scenes, AI (including machine learning and natural language processing) is performing complex processing. However, as a user, you don't need to write any code or deal with complicated settings. All you need is a simple instruction.**
 
-^ User-friendly interface: It's very easy to use.
+- User-friendly interface: It's very easy to use.
 
 
 - 高度に専門的な知識を持つ優秀な営業アシスタント: あなたは「潜在顧客を特定して」と指示するだけで、そのAIエージェントはあなたのビジネス、製品、サービス、そして市場に関する膨大なデータを分析し、まるで経験豊富な営業担当者のように、購入意欲の高い顧客候補をリストアップしてくれる。
