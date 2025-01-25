@@ -3,7 +3,7 @@ AI agent to identify potential customers to buy your products and services.
 
 - Imagine it as a highly specialized and excellent sales assistant: You simply instruct, "Identify potential customers," and this AI agent analyzes vast amounts of data about your business, products, services, and the market. Just like an experienced salesperson, it will list potential customers who are highly likely to purchase.
 
-- A tool that automatically performs complex analysis in the background: Behind the scenes, AI (including machine learning and natural language processing) is performing complex processing. However, as a user, you don't need to write any code or deal with complicated settings. All you need is a simple instruction.**
+- A tool that automatically performs complex analysis in the background: Behind the scenes, AI (including machine learning and natural language processing) is performing complex processing. However, as a user, you don't need to write any code or deal with complicated settings. All you need is a simple instruction.
 
 - User-friendly interface: It's very easy to use.
 
