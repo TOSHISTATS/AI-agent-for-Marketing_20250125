@@ -35,3 +35,5 @@ AI agent to identify potential customers to buy your products and services.
 
 
 @Misc{smolagents, title = {smolagents: a smol library to build great agentic systems.}, author = {Aymeric Roucher and Albert Villanova del Moral and Thomas Wolf and Leandro von Werra and Erik Kaunismäki}, howpublished = {\url{https://github.com/huggingface/smolagents}}, year = {2025} }
+
+Data can be obtained from this site. https://archive.ics.uci.edu/dataset/222/bank+marketing
