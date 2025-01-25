@@ -16,6 +16,7 @@ AI agent to identify potential customers to buy your products and services.
 
 ![Screenshot 2025-01-25 23 37 32](https://github.com/user-attachments/assets/f3503aa2-a6f6-4571-9ffc-0851086d1dc6)
 
+-identify 10 potential customers to buy your products and services
 
 ![Screenshot 2025-01-25 23 36 20](https://github.com/user-attachments/assets/d9f23ece-0fc4-4248-b1e8-01768a1d8c90)
 
