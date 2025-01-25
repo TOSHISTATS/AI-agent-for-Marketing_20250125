@@ -1,9 +1,12 @@
 # AI-agent-for-Marketing_20250125
 AI agent to identify potential customers to buy your products and services.
 
+- Imagine it as a highly specialized and excellent sales assistant: You simply instruct, "Identify potential customers," and this AI agent analyzes vast amounts of data about your business, products, services, and the market. Just like an experienced salesperson, it will list potential customers who are highly likely to purchase.
 
+- A tool that automatically performs complex analysis in the background: Behind the scenes, AI (including machine learning and natural language processing) is performing complex processing. However, as a user, you don't need to write any code or deal with complicated settings. All you need is a simple instruction.**
 
-## AII I have to do is to tell "Identify potential customers to buy my products". I do not need to write a code to predict "who will buy my products". This is "AI agent".
+^ User-friendly interface: It's very easy to use.
+
 
 - 高度に専門的な知識を持つ優秀な営業アシスタント: あなたは「潜在顧客を特定して」と指示するだけで、そのAIエージェントはあなたのビジネス、製品、サービス、そして市場に関する膨大なデータを分析し、まるで経験豊富な営業担当者のように、購入意欲の高い顧客候補をリストアップしてくれる。
 
