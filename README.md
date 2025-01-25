@@ -14,9 +14,11 @@ AI agent to identify potential customers to buy your products and services.
 
 - ユーザーフレンドリーなインターフェース: 操作は非常に簡単です。
 
-- Write prompt  （プロンプトを書きます）
+  ## AI agent behavior 
 
-![Screenshot 2025-01-25 23 37 32](https://github.com/user-attachments/assets/f3503aa2-a6f6-4571-9ffc-0851086d1dc6)
+- Write prompt  （プロンプト作成）
+  
+![Screenshot 2025-01-26 00 03 27](https://github.com/user-attachments/assets/78b8fd02-8c15-4539-83eb-de141efffda7)
 
 - identify 10 potential customers to buy your products and services
 
